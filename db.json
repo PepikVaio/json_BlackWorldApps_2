@@ -1,0 +1,67 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "version": "1.0.0.1",
+      "description": "web",
+      "title": "Mini for YouTube 2",
+      "overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
+      "icon_path": "K8S8sPDp",
+      "url_path": "app_m.youtube"
+    },
+    {
+      "id": 2,
+      "version": "1.2.0.4",
+      "description": "web",
+      "title": "Mini for Facebook 2",
+      "overview": "App displays the website touch.facebook.com in native blackberry browser.",
+      "icon_path": "ZqPBL7kL",
+      "url_path": "app_m.facebook"
+    },
+    {
+      "id": 3,
+      "version": "1.0.2.3",
+      "description": "web",
+      "title": "Mini for Instagram 2",
+      "overview": "App displays the website instagram.com in native blackberry browser.",
+      "icon_path": "zfN33CLH",
+      "url_path": "app_m.instagram"
+    },
+    {
+      "id": 4,
+      "version": "5.17.1.1",
+      "description": "android",
+      "title": "Jizdní řády",
+      "overview": "S jízdními řády od Seznamu můžete snadno naplánovat cestu autobusem, MHD nebo vyhledat vlakové spojení.",
+      "icon_path": "J7D1PjNP",
+      "url_path": "apk_jizdnirady"
+    },
+    {
+      "id": 5,
+      "version": "1.2.0.4",
+      "description": "android",
+      "title": "Messenger Lite",
+      "overview": "Aplikace pro posílání zpráv, která efektivně využívá data a umožní vám rychle se spojit s lidmi ve vašem životě.",
+      "icon_path": "LXzMF3xp",
+      "url_path": "apk_messengerlite"
+    },
+    {
+      "id": 6,
+      "version": "2.20.123",
+      "description": "android",
+      "title": "WhatsApp Messenger",
+      "overview": "WhatsApp od Facebooku.",
+      "icon_path": "gk143bYg",
+      "url_path": "apk_whatsappmessenger"
+    },
+    {
+      "id": 9,
+      "version": "0.0.0.1",
+      "description": "native",
+      "title": "Test.. APP",
+      "overview": "App was creating for testing webpages.",
+      "icon_path": "pL5JDNwK",
+      "url_path": "app_testapp"
+    }
+  ]
+}
