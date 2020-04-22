@@ -27,5 +27,11 @@
       "icon_path": "zfN33CLH",
       "url_path": "app_m.instagram"
     }
+  ],
+    "next": [
+    {
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/json_blackworldapps/db_03/db"
+    }
   ]
 }
+
