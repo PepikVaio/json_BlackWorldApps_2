@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": 1,
+      "id": 8,
       "version": "1.0.0.1",
       "description": "web",
       "title": "Mini for YouTube 2",
@@ -10,7 +10,7 @@
       "url_path": "app_m.youtube"
     },
     {
-      "id": 2,
+      "id": 9,
       "version": "1.2.0.4",
       "description": "web",
       "title": "Mini for Facebook 2",
@@ -19,7 +19,7 @@
       "url_path": "app_m.facebook"
     },
     {
-      "id": 3,
+      "id": 10,
       "version": "1.0.2.3",
       "description": "web",
       "title": "Mini for Instagram 2",
